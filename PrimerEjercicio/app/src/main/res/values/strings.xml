@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Primer Ejercicio</string>
+    <string name="tv1_tittle">1.TextView</string>
+    <string name="tv1_body">Nombre y Apellidos</string>
+    <string name="tv2_tittle">2.Cambiar Color</string>
+    <string name="tv2_body">Texto color Material Indigo 500</string>
+    <string name="tv3_tittle">3.Cambiar Tamaño</string>
+    <string name="tv3_body1">Tamaño de 14sp</string>
+    <string name="tv3_body2">Tamaño de 16sp</string>
+    <string name="tv3_body3">Tamaño de 20sp</string>
+    <string name="tv3_body4">Tamaño de 24sp</string>
+    <string name="tv4_tittle">4.Cambiar estilo de fuente</string>
+    <string name="tv4_body1">Estilo normal</string>
+    <string name="tv4_body2">Estilo en Negrita</string>
+    <string name="tv4_body3">Estilo en Italico</string>
+    <string name="tv4_body4">Estilo en Italico y Negrita</string>
+    <string name="tv5_tittle">5.Cambiar el tipo de fuente</string>
+    <string name="tv5_body1">tipo de fuente Sans</string>
+    <string name="tv5_body2">tipo de fuente Arial</string>
+    <string name="tv5_body3">tipo de fuente Monoespacio</string>
+    <string name="tv6_tittle">6.Convertir url en Clickeables</string>
+    <string name="tv6_body1">https://www.w3schools.com/</string>
+    <string name="tv7_tittle">7.Convetir a Mayusculas</string>
+    <string name="tv7_body1">https://www.w3schools.com/</string>
+</resources>
